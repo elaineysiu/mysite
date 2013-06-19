@@ -5,6 +5,8 @@ This is a test file blah blah blah asdlkfjas;l dkfj;alkjdf klajdf;k ajf akfja of
 
 This will include:
 
-*html
-*css
-*js
+* html
+* css
+* js
+
+test next line
